@@ -1,74 +1,31 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# GitaInspire : Bhagavad Gita Quote Generator Chrome Extension (ReactJS Version)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+"GitaInspire" is a Chrome extension built with React that generates a new quote from the Bhagavad Gita every time you open the popup, even without an internet connection.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Random Bhagavad Gita Quotes**: Receive a fresh quote from the Bhagavad Gita every time you open the extension popup.
+- **Inspiration from Ancient Wisdom**: Get inspired by timeless wisdom from the Bhagavad Gita, a spiritual text revered by millions.
+- **Offline Support**: Continue to enjoy new quotes even when you're offline.
 
-### `npm start`
+## How to Use
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. **Installation**:
+   - Clone or download the repository to your local machine.
+   - Open Google Chrome browser.
+   - Go to `chrome://extensions/`.
+   - Enable "Developer mode" in the top right corner.
+   - Click on "Load unpacked" and select the "build" directory within the cloned/downloaded repository.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. **Usage**:
+   - Click on the extension icon in the Chrome toolbar to open the popup.
+   - A new quote from the Bhagavad Gita will be displayed automatically, even without an internet connection.
+   - Click on the "Refresh" button to generate a new quote.
 
-### `npm test`
+## Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot 2024-05-05 003530](https://github.com/Darshanjasani73/GetQuote-chromeExtensionReact/assets/167104440/00d13e25-8aad-4c7f-8015-9e1b08045acb)
 
-### `npm run build`
+## License
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# GetQuote
->>>>>>> origin/main
+This project is licensed under the [MIT License](LICENSE).
